@@ -1,7 +1,10 @@
-import removeHidden from './js/removeHidden';
-// import addHidden from './js/addHidden';
+import { removeHidden } from './js/removeHidden.js';
+import { addHidden } from './js/addHidden.js';
 
-// setInterval(() => {
-//   removeHidden();
-//   addHidden();
-// }, 3800);
+removeHidden();
+addHidden();
+
+setInterval(() => {
+  removeHidden();
+  addHidden();
+}, 4700);
