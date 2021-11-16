@@ -1,0 +1,181 @@
+.photo {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  width: 300px;
+  height: 250px;
+  background-color: midnightblue;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  width: 150px;
+  font-size: large;
+  font-weight: bold;
+  color: #fff;
+}
+.hidden {
+  display: none;
+}
+.svg1 {
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  width: 36px;
+  height: 18px;
+  transform: rotate(-10deg);
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svg2 {
+  position: absolute;
+  top: 18%;
+  left: 15%;
+  transform: rotate(10deg);
+  width: 26px;
+  height: 13px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svg3 {
+  position: absolute;
+  top: 25%;
+  left: 43%;
+  transform: rotate(-10deg);
+  width: 36px;
+  height: 18px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svg4 {
+  position: absolute;
+  top: 20%;
+  right: 8%;
+  transform: rotate(14deg);
+  width: 36px;
+  height: 18px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svg5 {
+  position: absolute;
+  top: 30%;
+  right: 8%;
+  transform: rotate(-12deg);
+  width: 26px;
+  height: 13px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svg6 {
+  position: absolute;
+  top: 40%;
+  left: 15%;
+  transform: rotate(14deg);
+  width: 36px;
+  height: 18px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svg7 {
+  position: absolute;
+  top: 50%;
+  left: 17%;
+  transform: rotate(-12deg);
+  width: 26px;
+  height: 13px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svg8 {
+  position: absolute;
+  top: 40%;
+  right: 25%;
+  transform: rotate(15deg);
+  width: 26px;
+  height: 13px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svg9 {
+  position: absolute;
+  bottom: 33%;
+  right: 12%;
+  transform: rotate(14deg);
+  width: 36px;
+  height: 18px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svgA {
+  position: absolute;
+  bottom: 25%;
+  right: 25%;
+  transform: rotate(-15deg);
+  width: 26px;
+  height: 13px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svgB {
+  position: absolute;
+  bottom: 30%;
+  left: 33%;
+  transform: rotate(10deg);
+  width: 26px;
+  height: 13px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svgC {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  transform: rotate(14deg);
+  width: 36px;
+  height: 18px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svgD {
+  position: absolute;
+  bottom: 13%;
+  left: 18%;
+  transform: rotate(-16deg);
+  width: 26px;
+  height: 13px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svgE {
+  position: absolute;
+  bottom: 5%;
+  left: 45%;
+  transform: rotate(-10deg);
+  width: 36px;
+  height: 18px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svgF {
+  position: absolute;
+  bottom: 11%;
+  right: 9%;
+  transform: rotate(15deg);
+  width: 26px;
+  height: 13px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
+.svgG {
+  position: absolute;
+  bottom: 5%;
+  right: 17%;
+  /* transform: rotate(10deg); */
+  width: 26px;
+  height: 13px;
+  background-color: orange;
+  border: 1px solid #fff;
+}
